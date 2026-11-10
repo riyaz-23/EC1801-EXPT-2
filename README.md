@@ -71,7 +71,7 @@ module tb2;
     end
 
 endmodule
-<img width="1600" height="899" alt="output_2" src="https://github.com/user-attachments/assets/2da06415-9ff9-461a-a4a8-4578e066e12a" />
+
 
 <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
 
